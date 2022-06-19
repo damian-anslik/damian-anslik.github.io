@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdamian_anslik_github_io"]=self["webpackChunkdamian_anslik_github_io"]||[]).push([[443],{908:function(n,a,i){i.r(a),i.d(a,{default:function(){return h}});var u=i(252);const t={class:"about"},s=(0,u._)("h1",null,"This is an about page",-1),e=[s];function r(n,a){return(0,u.wg)(),(0,u.iD)("div",t,e)}var c=i(744);const o={},l=(0,c.Z)(o,[["render",r]]);var h=l}}]);
-//# sourceMappingURL=about.50474c36.js.map
